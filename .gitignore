@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+._*
+
+# Linux
+*~
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Резервные копии
+*.bak
+*.bak.*
+*.old
+
+# Локальные конфиги и реестры
+*.log
+home_hosts.txt
+
+# IDE
+.idea/
+.vscode/
