@@ -183,7 +183,7 @@ host user added 2026-09-15 14:30:00 fp=SHA256:xxxxx...
 
 ## Лицензия
 
-MIT — см. [LICENSE](LICENSE).
+GPL-3.0 — см. [LICENSE](LICENSE).
 
 ## Вклад
 
